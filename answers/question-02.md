@@ -1,0 +1,1 @@
+git add adds it to be commited and commiting is like an email

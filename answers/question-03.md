@@ -1,0 +1,1 @@
+git make a different version of the main you can edit without breaking main

@@ -1,0 +1,1 @@
+pull pulls into ocal push pushes into remote

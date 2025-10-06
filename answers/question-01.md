@@ -1,0 +1,1 @@
+checks the status of git for adding
